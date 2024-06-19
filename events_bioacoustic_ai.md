@@ -4,7 +4,7 @@ Conferences, workshops, and events of interest to Bioacoustic AI
 
 Please add items (just edit this file) -- ensure to add enough info so that people can understand it even if they don't recognise the acronym. Always add a URL!
 
-You can also look at http://www.wikicfp.com/ to find new conferences.
+You can also look at [WikiCFP](http://www.wikicfp.com/)  or [IBAC's list](https://www.ibac.info/meetings) to find new conferences.
 
 2025
 ----
@@ -12,9 +12,11 @@ You can also look at http://www.wikicfp.com/ to find new conferences.
 * ICASSP 2025, (Hyderabad, IN), April 6--11 https://2025.ieeeicassp.org/
 * InterSpeech 2025 (Rotterdam, NL), 17--22 August. https://www.interspeech2025.org/
 * Behaviour 2025 (Kolkata, IN) Aug 25--30 https://alpcordnews.com/BEHAVIOUR-2025/
-* IBAC 2025 (DK), 7--12 Sep https://www.sdu.dk/da/forskning/sound-communication-behaviour/ibac-2025
+* IBAC 2025 (Kerteminde, DK), 7--12 Sep https://www.sdu.dk/da/forskning/sound-communication-behaviour/ibac-2025
+* EUSIPCO (Palermo, IT), 8--12 Sep https://eusipco2025.org/
 * DCASE 2025 (details TBA)
 * NeurIPS 2025 (details TBA)
+* ICLR 2025 (details TBA)
 
 
 2024

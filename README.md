@@ -5,7 +5,8 @@ Our aim here is to keep track of public resources, useful for people interested 
 
 Planned content:
 
-* Events (conferences, workshops etc)
+* [Events (conferences, workshops etc)](events_bioacoustic_ai.md)
 * Datasets
 
 Only *publicly-available* content here please.
+

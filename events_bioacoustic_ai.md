@@ -28,6 +28,7 @@ You can also look at [WikiCFP](http://www.wikicfp.com/)  or [IBAC's list](https:
 * Sep 2-6, SPNHC-TDWG 2024 (Okinawa, JP) https://www.tdwg.org/conferences/2024/
 * Sep 6, VIHAR (Kos, GR) https://vihar-2024.vihar.org/
 * Sep 9–12, IWAENC (Aalborg, DK) https://iwaenc2024.org/
+* Sep 9-12, CLEF 2024 (Grenoble, FR) https://clef2024.imag.fr/
 * Sep 18–20, Audio Mostly (Milan IT) https://audiomostly.com/
 * Sep 18–20, CBMI (Reykjavik, IS) https://cbmi2024.org/
 * Sep 22–25, MLSP (London, UK) https://signalprocessingsociety.org/blog/mlsp-2024-2024-ieee-international-workshop-machine-learning-signal-processing

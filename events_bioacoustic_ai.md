@@ -14,6 +14,7 @@ You can also look at [WikiCFP](http://www.wikicfp.com/)  or [IBAC's list](https:
 * Behaviour 2025 (Kolkata, IN) Aug 25--30 https://alpcordnews.com/BEHAVIOUR-2025/
 * IBAC 2025 (Kerteminde, DK), 7--12 Sep https://www.sdu.dk/da/forskning/sound-communication-behaviour/ibac-2025
 * EUSIPCO (Palermo, IT), 8--12 Sep https://eusipco2025.org/
+* The first AES Conference on Artificial Intelligence and Machine Learning for Audio (London, UK), 8--10 Sep https://aes2.org/events-calendar/2025-aes-international-conference-on-artificial-intelligence-and-machine-learning-for-audio/
 * DCASE 2025 (details TBA)
 * NeurIPS 2025 (details TBA)
 * ICLR 2025 (details TBA)

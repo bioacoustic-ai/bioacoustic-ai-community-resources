@@ -10,10 +10,10 @@ You can also look at [WikiCFP](http://www.wikicfp.com/)  or [IBAC's list](https:
 ----
 
 * ICASSP 2025, (Hyderabad, IN), April 6--11 https://2025.ieeeicassp.org/
-* ICLR 2025 (Singapore, SG) April 24--28
+* ICLR 2025 (Singapore, SG) April 24--28 https://www.iclr.cc/Conferences/2025
 * Urban Sound Symposium (Zurich, CH) April 28--30 https://urban-sound-symposium.org/
 * SSP -- the IEEE Statistical Signal Processing Workshop (Edinburgh, UK) June 8--11
-* Forum Acusticum 2025 (Malaga, ES), June 23--26 
+* Forum Acusticum 2025 (Malaga, ES), June 23--26 (abstract deadline: Jan 19th) https://www.fa-euronoise2025.org/
 * InterSpeech 2025 (Rotterdam, NL), August 17--22 (paper deadline: Feb 12) https://www.interspeech2025.org/
 * Behaviour 2025 (Kolkata, IN) August 25--30 https://alpcordnews.com/BEHAVIOUR-2025/
 * IBAC 2025 (Kerteminde, DK), September 7--12 https://www.sdu.dk/da/forskning/sound-communication-behaviour/ibac-2025

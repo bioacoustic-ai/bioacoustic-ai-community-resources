@@ -17,6 +17,7 @@ You can also look at [WikiCFP](http://www.wikicfp.com/)  or [IBAC's list](https:
 * International Joint Conference on Neural Networks (IJCNN 2025) (Rome, IT), June 30--July 5 (paper deadline: Jan 15) https://2025.ijcnn.org
 * InterSpeech 2025 (Rotterdam, NL), August 17--22 (paper deadline: Feb 12) https://www.interspeech2025.org/
 * Behaviour 2025 (Kolkata, IN) August 25--30 https://alpcordnews.com/BEHAVIOUR-2025/
+* Machine Learning for Signal Processing (MLSP) (Istanbul, TR) August 31--September 3 https://2025.ieeemlsp.org/
 * IBAC 2025 (Kerteminde, DK), September 7--12 https://www.sdu.dk/da/forskning/sound-communication-behaviour/ibac-2025
 * EUSIPCO (Palermo, IT), September 8--12 (paper deadline: March 1) https://eusipco2025.org/
 * The first AES Conference on Artificial Intelligence and Machine Learning for Audio (London, UK), 8--10 Sep https://aes2.org/events-calendar/2025-aes-international-conference-on-artificial-intelligence-and-machine-learning-for-audio/

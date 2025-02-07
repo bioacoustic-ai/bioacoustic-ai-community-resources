@@ -21,10 +21,10 @@ You can also look at [WikiCFP](http://www.wikicfp.com/)  or [IBAC's list](https:
 * IBAC 2025 (Kerteminde, DK), September 7--12 https://www.sdu.dk/da/forskning/sound-communication-behaviour/ibac-2025
 * EUSIPCO (Palermo, IT), September 8--12 (paper deadline: March 1) https://eusipco2025.org/
 * The first AES Conference on Artificial Intelligence and Machine Learning for Audio (London, UK), 8--10 Sep https://aes2.org/events-calendar/2025-aes-international-conference-on-artificial-intelligence-and-machine-learning-for-audio/
+* WASPAA -- the IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (California, US) Oct 12--15 https://waspaa.com/
 * DCASE 2025 (Barcelona, ES), October 30-31 https://dcase.community/workshop2025/
     * Including BioDCASE, October 29
 
-* WASPAA -- the IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (New Paltz, US) -- details TBA but approx Oct
 * NeurIPS 2025 (San Diego, US) -- details TBA but approx December
 
 Events confirmed for after 2025:

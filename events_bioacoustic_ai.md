@@ -6,9 +6,16 @@ Please add items (just edit this file) -- ensure to add enough info so that peop
 
 You can also look at [WikiCFP](http://www.wikicfp.com/)  or [IBAC's list](https://www.ibac.info/meetings) to find new conferences.
 
+
 2025
 ----
 
+* NeurIPS 2025 (San Diego, US), Dec 2--7 https://neurips.cc/Conferences/2025
+    * Including **NeurIPS workshop "AI for non-human animal communication"**
+* DCASE 2025 (Barcelona, ES), October 30-31 https://dcase.community/workshop2025/
+    * Including **[the first BioDCASE workshop](https://biodcase.github.io/workshop2025/)**, October 29
+* IBAC 2025 (Kerteminde, DK), September 7--12 https://www.sdu.dk/da/forskning/sound-communication-behaviour/ibac-2025
+     * Including **symposium: "General purpose deep-learning"**
 * ICASSP 2025, (Hyderabad, IN), April 6--11 https://2025.ieeeicassp.org/
 * ICLR 2025 (Singapore, SG) April 24--28 https://www.iclr.cc/Conferences/2025
 * Urban Sound Symposium (Zurich, CH) April 28--30 https://urban-sound-symposium.org/
@@ -18,19 +25,21 @@ You can also look at [WikiCFP](http://www.wikicfp.com/)  or [IBAC's list](https:
 * InterSpeech 2025 (Rotterdam, NL), August 17--22 (paper deadline: Feb 12) https://www.interspeech2025.org/
 * Behaviour 2025 (Kolkata, IN) August 25--30 https://alpcordnews.com/BEHAVIOUR-2025/
 * Machine Learning for Signal Processing (MLSP) (Istanbul, TR) August 31--September 3 https://2025.ieeemlsp.org/
-* IBAC 2025 (Kerteminde, DK), September 7--12 https://www.sdu.dk/da/forskning/sound-communication-behaviour/ibac-2025
 * EUSIPCO (Palermo, IT), September 8--12 (paper deadline: March 1) https://eusipco2025.org/
 * The first AES Conference on Artificial Intelligence and Machine Learning for Audio (London, UK), 8--10 Sep https://aes2.org/events-calendar/2025-aes-international-conference-on-artificial-intelligence-and-machine-learning-for-audio/
 * WASPAA -- the IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (California, US) Oct 12--15 https://waspaa.com/
-* DCASE 2025 (Barcelona, ES), October 30-31 https://dcase.community/workshop2025/
-    * Including BioDCASE, October 29
 
-* NeurIPS 2025 (San Diego, US) -- details TBA but approx December
+Future years
+------------
 
-Events confirmed for after 2025:
+2026
 
-* ICASSP 2026 (Barcelona, ES), May 3--8 2026
+* ICLR 2026 (location TBA. One website claims [Brazil](http://aideadlines.org/conference/?id=iclr26)) (paper deadline: Sep 24) https://iclr.cc/Conferences/2026
+* ICASSP 2026 (Barcelona, ES), May 4--8 2026 (paper deadline: Sep 17 2025) https://2026.ieeeicassp.org/
 * EUSIPCO 2026 (Bruges, BE), Aug 31--Sep 4 2026
+
+Events confirmed for after 2026:
+
 * ICASSP 2027 (Toronto, CA), May 16--21 2027
 * EUSIPCO 2027 (Darmstadt, DE), Aug 30--Se 3 2027
 

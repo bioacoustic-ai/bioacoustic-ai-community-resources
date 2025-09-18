@@ -36,12 +36,14 @@ Future years
 
 * ICLR 2026 (location TBA. One website claims [Brazil](http://aideadlines.org/conference/?id=iclr26)) (paper deadline: Sep 24) https://iclr.cc/Conferences/2026
 * ICASSP 2026 (Barcelona, ES), May 4--8 2026 (paper deadline: Sep 17 2025) https://2026.ieeeicassp.org/
-* EUSIPCO 2026 (Bruges, BE), Aug 31--Sep 4 2026
+* WCCI 2026 - World Conference on Computational Intelligence (Maastricht, NL), June 21-26 https://attend.ieee.org/wcci-2026/ 
+* EUSIPCO 2026 (Bruges, BE), Aug 31--Sep 4 2026 https://eusipco2026.org/
 
 Events confirmed for after 2026:
 
 * ICASSP 2027 (Toronto, CA), May 16--21 2027
-* EUSIPCO 2027 (Darmstadt, DE), Aug 30--Se 3 2027
+* EUSIPCO 2027 (Darmstadt, DE), Aug 30--Sep 3 2027
+* IBAC 2027 (Kruger National Park, SA), Sep/Oct 2027
 
 
 Past years

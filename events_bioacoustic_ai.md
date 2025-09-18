@@ -34,7 +34,7 @@ Future years
 
 2026
 
-* ICLR 2026 (location TBA. One website claims [Brazil](http://aideadlines.org/conference/?id=iclr26)) (paper deadline: Sep 24) https://iclr.cc/Conferences/2026
+* ICLR 2026 (Rio de janeiro, Brazil) (paper deadline: Sep 24) https://iclr.cc/Conferences/2026
 * ICASSP 2026 (Barcelona, ES), May 4--8 2026 (paper deadline: Sep 17 2025) https://2026.ieeeicassp.org/
 * WCCI 2026 - World Conference on Computational Intelligence (Maastricht, NL), June 21-26 https://attend.ieee.org/wcci-2026/ 
 * EUSIPCO 2026 (Bruges, BE), Aug 31--Sep 4 2026 https://eusipco2026.org/

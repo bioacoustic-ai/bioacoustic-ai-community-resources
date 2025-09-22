@@ -31,6 +31,7 @@ Future years
 **Events confirmed for after 2026:**
 
 * ICASSP 2027 (Toronto, CA), May 16--21 2027
+* Acoustics '27: Joint meeting of the Acoustical Society of America, European Acoustics Association, and the Belgian Acoustical Society (Brussels, BE), Jun 21--25 2027 https://acousticalsociety.org/acoustics27brussels
 * EUSIPCO 2027 (Darmstadt, DE), Aug 30--Sep 3 2027
 * IBAC 2027 (Kruger National Park, SA), Sep/Oct 2027
 

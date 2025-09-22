@@ -14,19 +14,7 @@ You can also look at [WikiCFP](http://www.wikicfp.com/)  or [IBAC's list](https:
     * Including **NeurIPS workshop "AI for non-human animal communication"**
 * DCASE 2025 (Barcelona, ES), October 30-31 https://dcase.community/workshop2025/
     * Including **[the first BioDCASE workshop](https://biodcase.github.io/workshop2025/)**, October 29
-* IBAC 2025 (Kerteminde, DK), September 7--12 https://www.sdu.dk/da/forskning/sound-communication-behaviour/ibac-2025
-     * Including **symposium: "General purpose deep-learning"**
-* ICASSP 2025, (Hyderabad, IN), April 6--11 https://2025.ieeeicassp.org/
-* ICLR 2025 (Singapore, SG) April 24--28 https://www.iclr.cc/Conferences/2025
-* Urban Sound Symposium (Zurich, CH) April 28--30 https://urban-sound-symposium.org/
-* SSP -- the IEEE Statistical Signal Processing Workshop (Edinburgh, UK) June 8--11
-* Forum Acusticum 2025 (Malaga, ES), June 23--26 (abstract deadline: Jan 19th) https://www.fa-euronoise2025.org/
-* International Joint Conference on Neural Networks (IJCNN 2025) (Rome, IT), June 30--July 5 (paper deadline: Jan 15) https://2025.ijcnn.org
-* InterSpeech 2025 (Rotterdam, NL), August 17--22 (paper deadline: Feb 12) https://www.interspeech2025.org/
-* Behaviour 2025 (Kolkata, IN) August 25--30 https://alpcordnews.com/BEHAVIOUR-2025/
-* Machine Learning for Signal Processing (MLSP) (Istanbul, TR) August 31--September 3 https://2025.ieeemlsp.org/
-* EUSIPCO (Palermo, IT), September 8--12 (paper deadline: March 1) https://eusipco2025.org/
-* The first AES Conference on Artificial Intelligence and Machine Learning for Audio (London, UK), 8--10 Sep https://aes2.org/events-calendar/2025-aes-international-conference-on-artificial-intelligence-and-machine-learning-for-audio/
+intelligence-and-machine-learning-for-audio/
 * WASPAA -- the IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (California, US) Oct 12--15 https://waspaa.com/
 
 Future years
@@ -48,6 +36,22 @@ Events confirmed for after 2026:
 
 Past years
 ----------
+
+2025
+
+* IBAC 2025 (Kerteminde, DK), September 7--12 https://www.sdu.dk/da/forskning/sound-communication-behaviour/ibac-2025
+     * Including **symposium: "General purpose deep-learning"**
+* ICASSP 2025, (Hyderabad, IN), April 6--11 https://2025.ieeeicassp.org/
+* ICLR 2025 (Singapore, SG) April 24--28 https://www.iclr.cc/Conferences/2025
+* Urban Sound Symposium (Zurich, CH) April 28--30 https://urban-sound-symposium.org/
+* SSP -- the IEEE Statistical Signal Processing Workshop (Edinburgh, UK) June 8--11
+* Forum Acusticum 2025 (Malaga, ES), June 23--26 (abstract deadline: Jan 19th) https://www.fa-euronoise2025.org/
+* International Joint Conference on Neural Networks (IJCNN 2025) (Rome, IT), June 30--July 5 (paper deadline: Jan 15) https://2025.ijcnn.org
+* InterSpeech 2025 (Rotterdam, NL), August 17--22 (paper deadline: Feb 12) https://www.interspeech2025.org/
+* Behaviour 2025 (Kolkata, IN) August 25--30 https://alpcordnews.com/BEHAVIOUR-2025/
+* Machine Learning for Signal Processing (MLSP) (Istanbul, TR) August 31--September 3 https://2025.ieeemlsp.org/
+* EUSIPCO (Palermo, IT), September 8--12 (paper deadline: March 1) https://eusipco2025.org/
+* The first AES Conference on Artificial Intelligence and Machine Learning for Audio (London, UK), 8--10 Sep https://aes2.org/events-calendar/2025-aes-international-conference-on-artificial-
 
 2024
 

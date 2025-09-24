@@ -14,7 +14,6 @@ You can also look at [WikiCFP](http://www.wikicfp.com/)  or [IBAC's list](https:
     * Including **NeurIPS workshop "AI for non-human animal communication"**
 * DCASE 2025 (Barcelona, ES), October 30-31 https://dcase.community/workshop2025/
     * Including **[the first BioDCASE workshop](https://biodcase.github.io/workshop2025/)**, October 29
-intelligence-and-machine-learning-for-audio/
 * WASPAA -- the IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (California, US) Oct 12--15 https://waspaa.com/
 
 Future years
@@ -54,7 +53,7 @@ Past years
 * Behaviour 2025 (Kolkata, IN) August 25--30 https://alpcordnews.com/BEHAVIOUR-2025/
 * Machine Learning for Signal Processing (MLSP) (Istanbul, TR) August 31--September 3 https://2025.ieeemlsp.org/
 * EUSIPCO (Palermo, IT), September 8--12 (paper deadline: March 1) https://eusipco2025.org/
-* The first AES Conference on Artificial Intelligence and Machine Learning for Audio (London, UK), 8--10 Sep https://aes2.org/events-calendar/2025-aes-international-conference-on-artificial-
+* The first AES Conference on Artificial Intelligence and Machine Learning for Audio (London, UK), 8--10 Sep https://aes2.org/events-calendar/2025-aes-international-conference-on-artificial-intelligence-and-machine-learning-for-audio/
 
 2024
 

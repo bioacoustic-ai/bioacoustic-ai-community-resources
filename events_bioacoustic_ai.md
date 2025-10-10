@@ -16,9 +16,6 @@ You can also look at [WikiCFP](http://www.wikicfp.com/)  or [IBAC's list](https:
     * Including **[the first BioDCASE workshop](https://biodcase.github.io/workshop2025/)**, October 29
 * WASPAA -- the IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (California, US) Oct 12--15 https://waspaa.com/
 
-Future years
-------------
-
 2026
 ----
 
@@ -30,7 +27,8 @@ Future years
 * EUSIPCO 2026 (Bruges, BE), Aug 31--Sep 4 2026 https://eusipco2026.org/
 * the 6th World Ecoacoustics Congress - expected to be held in Japan in summer 2026
 
-**Events confirmed for after 2026:**
+Future years
+------------
 
 * ICASSP 2027 (Toronto, CA), May 16--21 2027
 * Acoustics '27: Joint meeting of the Acoustical Society of America, European Acoustics Association, and the Belgian Acoustical Society (Brussels, BE), Jun 21--25 2027 https://acousticalsociety.org/acoustics27brussels

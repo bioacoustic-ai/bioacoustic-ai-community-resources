@@ -10,10 +10,10 @@ You can also look at [WikiCFP](http://www.wikicfp.com/)  or [IBAC's list](https:
 2025
 ----
 
-* NeurIPS 2025 (San Diego, US), Dec 2--7 https://neurips.cc/Conferences/2025
-    * Including **NeurIPS workshop "AI for non-human animal communication"**
 * DCASE 2025 (Barcelona, ES), October 30-31 https://dcase.community/workshop2025/
     * Including **[the first BioDCASE workshop](https://biodcase.github.io/workshop2025/)**, October 29
+* NeurIPS 2025 (San Diego, US), Dec 2--7 https://neurips.cc/Conferences/2025
+    * Including **[NeurIPS workshop "AI for non-human animal communication"](https://aiforanimalcomms.org/)**
 * WASPAA -- the IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (California, US) Oct 12--15 https://waspaa.com/
 
 2026

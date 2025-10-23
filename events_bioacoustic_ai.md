@@ -26,6 +26,7 @@ You can also look at [WikiCFP](http://www.wikicfp.com/)  or [IBAC's list](https:
 * ECCB 2026: European Congress of Conservation Biology (Leiden, NL), Jul 6--10 2026 https://eccb26leiden.eu/
 * EUSIPCO 2026 (Bruges, BE), Aug 31--Sep 4 2026 https://eusipco2026.org/
 * the 6th World Ecoacoustics Congress - expected to be held in Japan in summer 2026
+* UbiComm 2026 (Barcelona, ES), Sep 27--Oct 1 (paper deadline: June 8th) https://www.iaria.org/conferences2026/UBICOMM26.html
 
 Future years
 ------------

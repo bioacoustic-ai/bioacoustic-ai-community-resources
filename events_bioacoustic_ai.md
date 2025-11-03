@@ -18,6 +18,7 @@ You can also look at [WikiCFP](http://www.wikicfp.com/)  or [IBAC's list](https:
 2026
 ----
 
+* International Conservation Technology Conference (ICTC) (Lima, Peru) Feb 16--20 2026 https://ictc2026.com/
 * ICLR 2026 (Rio de janeiro, Brazil), April 23--27 2026 (paper deadline: Sep 24) https://iclr.cc/Conferences/2026
 * ICASSP 2026 (Barcelona, ES), May 4--8 2026 (paper deadline: Sep 17 2025) https://2026.ieeeicassp.org/
 * Emerging Bioacousticians Days (JJBA) (https://jjbioacoustique.wixsite.com/jjba/en), expected late spring 2026 in France

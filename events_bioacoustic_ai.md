@@ -6,12 +6,6 @@ Please add items (just **edit** this file) -- ensure to add enough info so that 
 
 You can also look at [WikiCFP](http://www.wikicfp.com/)  or [IBAC's list](https://www.ibac.info/meetings) to find new conferences.
 
-
-2025
-----
-
-* DCASE 2025 (Barcelona, ES), October 30-31 https://dcase.community/workshop2025/
-    * Including **[the first BioDCASE workshop](https://biodcase.github.io/workshop2025/)**, October 29
 * NeurIPS 2025 (San Diego, US), Dec 2--7 https://neurips.cc/Conferences/2025
     * Including **[NeurIPS workshop "AI for non-human animal communication"](https://aiforanimalcomms.org/)**
 
@@ -42,6 +36,8 @@ Past years
 
 2025
 
+* DCASE 2025 (Barcelona, ES), October 30-31 https://dcase.community/workshop2025/
+    * Including **[the first BioDCASE workshop](https://biodcase.github.io/workshop2025/)**, October 29
 * IBAC 2025 (Kerteminde, DK), September 7--12 https://www.sdu.dk/da/forskning/sound-communication-behaviour/ibac-2025
      * Including symposium: "General purpose deep-learning"
 * ICASSP 2025, (Hyderabad, IN), April 6--11 https://2025.ieeeicassp.org/

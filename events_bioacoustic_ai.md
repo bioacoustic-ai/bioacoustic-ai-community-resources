@@ -17,7 +17,8 @@ You can also look at [WikiCFP](http://www.wikicfp.com/)  or [IBAC's list](https:
 * ICASSP 2026 (Barcelona, ES), May 4--8 2026 (paper deadline: Sep 17 2025) https://2026.ieeeicassp.org/
 * BioMonWeek "the new European conference dedicated to advancing biodiversity monitoring" (Montpellier, FR) May 4--8 2026 https://www.biodiversa.eu/2025/11/20/save-the-date-biomonweek2026/
 * Emerging Bioacousticians Days (JJBA) (Besançon, FR), 16--18 June 2026 https://jjbioacoustique.wixsite.com/jjba/en
-* WCCI 2026 - World Conference on Computational Intelligence (Maastricht, NL), June 21--26 (paper deadline: Jan 31) https://attend.ieee.org/wcci-2026/ 
+* WCCI 2026 - World Conference on Computational Intelligence (Maastricht, NL), June 21--26 (paper deadline: Jan 31) https://attend.ieee.org/wcci-2026/
+* LIMITS 2026: Computing Within Limits, Jun 23--25 2026 https://computingwithinlimits.org/2026
 * ECCB 2026: European Congress of Conservation Biology (Leiden, NL), Jul 6--10 2026 https://eccb26leiden.eu/
 * EUSIPCO 2026 (Bruges, BE), Aug 31--Sep 4 2026 https://eusipco2026.org/
 * the 6th World Ecoacoustics Congress - Cairns, Australia, in summer 2026

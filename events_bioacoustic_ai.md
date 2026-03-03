@@ -9,7 +9,6 @@ You can also look at [WikiCFP](http://www.wikicfp.com/)  or [IBAC's list](https:
 2026
 ----
 
-* International Conservation Technology Conference (ICTC) (Lima, Peru) Feb 16--20 2026 https://ictc2026.com/
 * ICLR 2026 (Rio de janeiro, Brazil), April 23--27 2026 (paper deadline: Sep 24) https://iclr.cc/Conferences/2026
 * ICASSP 2026 (Barcelona, ES), May 4--8 2026 (paper deadline: Sep 17 2025) https://2026.ieeeicassp.org/
 * BioMonWeek "the new European conference dedicated to advancing biodiversity monitoring" (Montpellier, FR) May 4--8 2026 https://www.biodiversa.eu/2025/11/20/save-the-date-biomonweek2026/
@@ -18,6 +17,8 @@ You can also look at [WikiCFP](http://www.wikicfp.com/)  or [IBAC's list](https:
 * LIMITS 2026: Computing Within Limits, Jun 23--25 2026 https://computingwithinlimits.org/2026
 * ECCB 2026: European Congress of Conservation Biology (Leiden, NL), Jul 6--10 2026 https://eccb26leiden.eu/
 * EUSIPCO 2026 (Bruges, BE), Aug 31--Sep 4 2026 https://eusipco2026.org/
+* Forum Acusticum 2026 (Graz, AT) Sep 8--12 (paper deadline: Mar 31) https://forum-acusticum.org/fa2026/
+     * Including a session "Machine Learning in Bioacoustics"
 * the 6th World Ecoacoustics Congress - Cairns, Australia, in summer 2026
 * UbiComm 2026 (Barcelona, ES), Sep 27--Oct 1 (paper deadline: June 8th) https://www.iaria.org/conferences2026/UBICOMM26.html
 
@@ -32,6 +33,10 @@ Future years
 
 Past years
 ----------
+
+2026
+
+* International Conservation Technology Conference (ICTC) (Lima, Peru) Feb 16--20 2026 https://ictc2026.com/
 
 2025
 

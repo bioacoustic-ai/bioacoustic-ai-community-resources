@@ -20,7 +20,7 @@ You can also look at [WikiCFP](http://www.wikicfp.com/)  or [IBAC's list](https:
 * EUSIPCO 2026 (Bruges, BE), Aug 31--Sep 4 2026 https://eusipco2026.org/
 * Forum Acusticum 2026 (Graz, AT) Sep 8--12 (paper deadline: Mar 31) https://forum-acusticum.org/fa2026/
      * Including a session "Machine Learning in Bioacoustics"
-* the 6th World Ecoacoustics Congress - Cairns, Australia, in summer 2026
+* World Ecoacoustics Congress (Cairns, AU), 17--20 Aug 2026 (abstracts deadline: April 11th) https://ecoacoustics2026.org/
 * UbiComm 2026 (Barcelona, ES), Sep 27--Oct 1 (paper deadline: June 8th) https://www.iaria.org/conferences2026/UBICOMM26.html
 * Tecniacústica: 57th Spanish Congress on Acoustics – XIV Iberian Congress on Acoustics (Granada, ES), Oct 21--23 (paper deadline: May 15 or Sep 7) https://www.tecniacustica.es/TECNIACUSTICA2026/
 * BioDCASE workshop 2026, TBA

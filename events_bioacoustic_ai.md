@@ -9,8 +9,6 @@ You can also look at [WikiCFP](http://www.wikicfp.com/)  or [IBAC's list](https:
 2026
 ----
 
-* ICLR 2026 (Rio de janeiro, Brazil), April 23--27 2026 (paper deadline: Sep 24) https://iclr.cc/Conferences/2026
-* ICASSP 2026 (Barcelona, ES), May 4--8 2026 (paper deadline: Sep 17 2025) https://2026.ieeeicassp.org/
 * BioMonWeek "the new European conference dedicated to advancing biodiversity monitoring" (Montpellier, FR) May 4--8 2026 https://www.biodiversa.eu/2025/11/20/save-the-date-biomonweek2026/
 * GreenIO Amsterdam (Amsterdam, NL) June 9--10 2026 https://greenio.tech/conference/25/amsterdam-2026-june
 * Emerging Bioacousticians Days (JJBA) (Besançon, FR), 16--18 June 2026 https://jjbioacoustique.wixsite.com/jjba/en
@@ -41,6 +39,8 @@ Past years
 
 2026
 
+* ICASSP 2026 (Barcelona, ES), May 4--8 2026 (paper deadline: Sep 17 2025) https://2026.ieeeicassp.org/
+* ICLR 2026 (Rio de janeiro, Brazil), April 23--27 2026 (paper deadline: Sep 24) https://iclr.cc/Conferences/2026
 * International Conservation Technology Conference (ICTC) (Lima, Peru) Feb 16--20 2026 https://ictc2026.com/
 
 2025

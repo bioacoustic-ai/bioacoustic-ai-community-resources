@@ -23,6 +23,7 @@ You can also look at [WikiCFP](http://www.wikicfp.com/)  or [IBAC's list](https:
 * UbiComm 2026 (Barcelona, ES), Sep 27--Oct 1 (paper deadline: June 8th) https://www.iaria.org/conferences2026/UBICOMM26.html
 * Tecniacústica: 57th Spanish Congress on Acoustics – XIV Iberian Congress on Acoustics (Granada, ES), Oct 21--23 (paper deadline: May 15 or Sep 7) https://www.tecniacustica.es/TECNIACUSTICA2026/
 * BioDCASE workshop 2026, TBA
+* BNAIC/BeNeLearn (Benelux Conference on Artificial Intelligence) (Maastricht, NL) Oct 21--23 https://www.maastrichtuniversity.nl/bnaic2026
 * DCASE workshop 2026 (Boston, US) Oct 28--29
 
 2027

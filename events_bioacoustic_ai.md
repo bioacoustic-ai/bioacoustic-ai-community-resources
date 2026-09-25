@@ -9,12 +9,6 @@ You can also look at [WikiCFP](http://www.wikicfp.com/)  or [IBAC's list](https:
 2026
 ----
 
-* ECCB 2026: European Congress of Conservation Biology (Leiden, NL), Jul 6--10 2026 https://eccb26leiden.eu/
-* EUSIPCO 2026 (Bruges, BE), Aug 31--Sep 4 2026 https://eusipco2026.org/
-* Forum Acusticum 2026 (Graz, AT) Sep 8--12 (paper deadline: Mar 31) https://forum-acusticum.org/fa2026/
-     * Including a session "Machine Learning in Bioacoustics"
-* World Ecoacoustics Congress (Cairns, AU), 17--20 Aug 2026 (abstracts deadline: April 11th) https://ecoacoustics2026.org/
-* International Workshop on Low Carbon Computing (LOCO) (Lancaster, UK & online), 10--11 Sep 2026 (abstracts deadline: May 29th) https://lancaster-university.github.io/loco2026/
 * UbiComm 2026 (Barcelona, ES), Sep 27--Oct 1 (paper deadline: June 8th) https://www.iaria.org/conferences2026/UBICOMM26.html
 * Tecniacústica: 57th Spanish Congress on Acoustics – XIV Iberian Congress on Acoustics (Granada, ES), Oct 21--23 (paper deadline: May 15 or Sep 7) https://www.tecniacustica.es/TECNIACUSTICA2026/
 * BNAIC/BeNeLearn (Benelux Conference on Artificial Intelligence) (Maastricht, NL) Oct 21--23 https://www.maastrichtuniversity.nl/bnaic2026
@@ -43,6 +37,12 @@ Past years
 
 2026
 
+* ECCB 2026: European Congress of Conservation Biology (Leiden, NL), Jul 6--10 2026 https://eccb26leiden.eu/
+* EUSIPCO 2026 (Bruges, BE), Aug 31--Sep 4 2026 https://eusipco2026.org/
+* Forum Acusticum 2026 (Graz, AT) Sep 8--12 (paper deadline: Mar 31) https://forum-acusticum.org/fa2026/
+     * Including a session "Machine Learning in Bioacoustics"
+* World Ecoacoustics Congress (Cairns, AU), 17--20 Aug 2026 (abstracts deadline: April 11th) https://ecoacoustics2026.org/
+* International Workshop on Low Carbon Computing (LOCO) (Lancaster, UK & online), 10--11 Sep 2026 (abstracts deadline: May 29th) https://lancaster-university.github.io/loco2026/
 * BioMonWeek "the new European conference dedicated to advancing biodiversity monitoring" (Montpellier, FR) May 4--8 2026 https://www.biodiversa.eu/2025/11/20/save-the-date-biomonweek2026/
 * GreenIO Amsterdam (Amsterdam, NL) June 9--10 2026 https://greenio.tech/conference/25/amsterdam-2026-june
 * Emerging Bioacousticians Days (JJBA) (Besançon, FR), 16--18 June 2026 https://jjbioacoustique.wixsite.com/jjba/en

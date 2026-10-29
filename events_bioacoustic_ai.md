@@ -6,15 +6,6 @@ Please add items (just **edit** this file) -- ensure to add enough info so that 
 
 You can also look at [WikiCFP](http://www.wikicfp.com/)  or [IBAC's list](https://www.ibac.info/meetings) to find new conferences.
 
-2026
-----
-
-* UbiComm 2026 (Barcelona, ES), Sep 27--Oct 1 (paper deadline: June 8th) https://www.iaria.org/conferences2026/UBICOMM26.html
-* Tecniacústica: 57th Spanish Congress on Acoustics – XIV Iberian Congress on Acoustics (Granada, ES), Oct 21--23 (paper deadline: May 15 or Sep 7) https://www.tecniacustica.es/TECNIACUSTICA2026/
-* BNAIC/BeNeLearn (Benelux Conference on Artificial Intelligence) (Maastricht, NL) Oct 21--23 https://www.maastrichtuniversity.nl/bnaic2026
-* BioDCASE workshop 2026 (online) Oct 23 https://biodcase.github.io/workshop2026/
-* DCASE workshop 2026 (Boston, US) Oct 28--29
-
 2027
 ----
 
@@ -37,6 +28,11 @@ Past years
 
 2026
 
+* BioDCASE workshop 2026 (online) Oct 23 https://biodcase.github.io/workshop2026/
+* DCASE workshop 2026 (Boston, US) Oct 28--29
+* Tecniacústica: 57th Spanish Congress on Acoustics – XIV Iberian Congress on Acoustics (Granada, ES), Oct 21--23 (paper deadline: May 15 or Sep 7) https://www.tecniacustica.es/TECNIACUSTICA2026/
+* BNAIC/BeNeLearn (Benelux Conference on Artificial Intelligence) (Maastricht, NL) Oct 21--23 https://www.maastrichtuniversity.nl/bnaic2026
+* UbiComm 2026 (Barcelona, ES), Sep 27--Oct 1 (paper deadline: June 8th) https://www.iaria.org/conferences2026/UBICOMM26.html
 * ECCB 2026: European Congress of Conservation Biology (Leiden, NL), Jul 6--10 2026 https://eccb26leiden.eu/
 * EUSIPCO 2026 (Bruges, BE), Aug 31--Sep 4 2026 https://eusipco2026.org/
 * Forum Acusticum 2026 (Graz, AT) Sep 8--12 (paper deadline: Mar 31) https://forum-acusticum.org/fa2026/

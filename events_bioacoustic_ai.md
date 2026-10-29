@@ -9,6 +9,7 @@ You can also look at [WikiCFP](http://www.wikicfp.com/)  or [IBAC's list](https:
 2027
 ----
 
+* "Computational Audio Analysis for Bioacoustic and Biodiversity Measurement" as part of DAGA 2027 (Darmstadt, DE), Mar 8--11 2027 https://www.daga2027.de/en/programm/lectures-and-posters
 * ICASSP 2027 (Toronto, CA), May 16--21 2027 https://2027.ieeeicassp.org/
 * Acoustics '27: Joint meeting of the Acoustical Society of America, European Acoustics Association, and the Belgian Acoustical Society (Brussels, BE), Jun 21--25 2027 https://acoustics27.com/ OR https://acousticalsociety.org/acoustics27brussels
 * DCLDE (Detection, Classification, Localization, and Density Estimation of Marine Mammals using Passive Acoustics) (Cornell University, Ithaca, New York, US), Aug 2–-6 2027 https://www.dclde.org/event-details

@@ -12,10 +12,12 @@ You can also look at [WikiCFP](http://www.wikicfp.com/)  or [IBAC's list](https:
 * "Computational Audio Analysis for Bioacoustic and Biodiversity Measurement" as part of DAGA 2027 (Darmstadt, DE), Mar 8--11 2027 https://www.daga2027.de/en/programm/lectures-and-posters
 * ICASSP 2027 (Toronto, CA), May 16--21 2027 https://2027.ieeeicassp.org/
 * Acoustics '27: Joint meeting of the Acoustical Society of America, European Acoustics Association, and the Belgian Acoustical Society (Brussels, BE), Jun 21--25 2027 https://acoustics27.com/ OR https://acousticalsociety.org/acoustics27brussels
+    * *We will be hosting a special session on computational bioacoustics as part of this event*
 * DCLDE (Detection, Classification, Localization, and Density Estimation of Marine Mammals using Passive Acoustics) (Cornell University, Ithaca, New York, US), Aug 2–-6 2027 https://www.dclde.org/event-details
 * Behaviour 2027 (Vienna, AT) Aug 23--27 2027
 * EUSIPCO 2027 (Darmstadt, DE), Aug 30--Sep 3 2027 https://eusipco2027.de/
 * IBAC 2027 (Kruger National Park, SA), Sep 26--Oct 1 2027 https://www.ibac2027.com/
+    * *We will be hosting a special session on computational bioacoustics as part of this event*
 * DCASE 2027 (European location, TBA)
 * NeurIPS 2027 (European location, TBA) Dec 2027 https://neurips.cc/Conferences/FutureMeetings
 
